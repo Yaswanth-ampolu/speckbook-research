@@ -1,0 +1,162 @@
+{
+  "Claude_Opus4.6_A_Timing": {
+    "words": 1439,
+    "domain_terms": 19,
+    "elapsed": 58.51608395576477,
+    "sections": 23,
+    "numbered": 22,
+    "stop_reason": "end_turn",
+    "in_tokens": 2995,
+    "out_tokens": 2961
+  },
+  "Claude_Opus4.6_B_FreqChart": {
+    "words": 910,
+    "domain_terms": 13,
+    "elapsed": 40.70076298713684,
+    "sections": 17,
+    "numbered": 3,
+    "stop_reason": "end_turn",
+    "in_tokens": 1904,
+    "out_tokens": 1963
+  },
+  "Claude_Opus4.6_C_BlockDiag": {
+    "words": 796,
+    "domain_terms": 26,
+    "elapsed": 35.91897201538086,
+    "sections": 19,
+    "numbered": 6,
+    "stop_reason": "end_turn",
+    "in_tokens": 2489,
+    "out_tokens": 1608
+  },
+  "Claude_Opus4.6_D_FEC": {
+    "words": 644,
+    "domain_terms": 20,
+    "elapsed": 32.567418575286865,
+    "sections": 17,
+    "numbered": 12,
+    "stop_reason": "end_turn",
+    "in_tokens": 2741,
+    "out_tokens": 1488
+  },
+  "Claude_Opus4.6_E_StateMachine": {
+    "words": 1051,
+    "domain_terms": 9,
+    "elapsed": 41.1331353187561,
+    "sections": 16,
+    "numbered": 9,
+    "stop_reason": "end_turn",
+    "in_tokens": 3005,
+    "out_tokens": 1799
+  },
+  "Claude_Opus4.6_F_FrameFormat": {
+    "words": 553,
+    "domain_terms": 4,
+    "elapsed": 23.771145820617676,
+    "sections": 10,
+    "numbered": 9,
+    "stop_reason": "end_turn",
+    "in_tokens": 1913,
+    "out_tokens": 967
+  },
+  "Claude_Opus4.6_G_Security": {
+    "words": 1006,
+    "domain_terms": 15,
+    "elapsed": 37.686118602752686,
+    "sections": 15,
+    "numbered": 14,
+    "stop_reason": "end_turn",
+    "in_tokens": 2273,
+    "out_tokens": 1900
+  },
+  "Claude_Opus4.6_H_Inline": {
+    "words": 281,
+    "domain_terms": 8,
+    "elapsed": 14.442426919937134,
+    "sections": 8,
+    "numbered": 5,
+    "stop_reason": "end_turn",
+    "in_tokens": 1447,
+    "out_tokens": 514
+  },
+  "Claude_Haiku4.5_A_Timing": {
+    "words": 1405,
+    "domain_terms": 22,
+    "elapsed": 26.03138494491577,
+    "sections": 15,
+    "numbered": 5,
+    "stop_reason": "end_turn",
+    "in_tokens": 2995,
+    "out_tokens": 2994
+  },
+  "Claude_Haiku4.5_B_FreqChart": {
+    "words": 1227,
+    "domain_terms": 14,
+    "elapsed": 24.116626977920532,
+    "sections": 23,
+    "numbered": 7,
+    "stop_reason": "end_turn",
+    "in_tokens": 1904,
+    "out_tokens": 2675
+  },
+  "Claude_Haiku4.5_C_BlockDiag": {
+    "words": 1318,
+    "domain_terms": 26,
+    "elapsed": 26.570586442947388,
+    "sections": 29,
+    "numbered": 0,
+    "stop_reason": "max_tokens",
+    "in_tokens": 2489,
+    "out_tokens": 3000
+  },
+  "Claude_Haiku4.5_D_FEC": {
+    "words": 1180,
+    "domain_terms": 16,
+    "elapsed": 25.31109094619751,
+    "sections": 21,
+    "numbered": 12,
+    "stop_reason": "max_tokens",
+    "in_tokens": 2741,
+    "out_tokens": 3000
+  },
+  "Claude_Haiku4.5_E_StateMachine": {
+    "words": 1636,
+    "domain_terms": 19,
+    "elapsed": 30.07031798362732,
+    "sections": 26,
+    "numbered": 14,
+    "stop_reason": "max_tokens",
+    "in_tokens": 3005,
+    "out_tokens": 3000
+  },
+  "Claude_Haiku4.5_F_FrameFormat": {
+    "words": 1456,
+    "domain_terms": 12,
+    "elapsed": 27.877703189849854,
+    "sections": 27,
+    "numbered": 14,
+    "stop_reason": "end_turn",
+    "in_tokens": 1913,
+    "out_tokens": 2905
+  },
+  "Claude_Haiku4.5_G_Security": {
+    "words": 1333,
+    "domain_terms": 13,
+    "elapsed": 26.20372724533081,
+    "sections": 34,
+    "numbered": 19,
+    "stop_reason": "max_tokens",
+    "in_tokens": 2273,
+    "out_tokens": 3000
+  },
+  "Claude_Haiku4.5_H_Inline": {
+    "words": 371,
+    "domain_terms": 12,
+    "elapsed": 8.668641328811646,
+    "sections": 10,
+    "numbered": 5,
+    "stop_reason": "end_turn",
+    "in_tokens": 1447,
+    "out_tokens": 730
+  }
+}
